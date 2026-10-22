@@ -1,0 +1,10 @@
+# Ambiente Virtual
+venv/
+__pycache__/
+*.pyc
+
+# Segurança e Variáveis de Ambiente
+.env
+
+# Testes e Cobertura
+.pytest_cache/
